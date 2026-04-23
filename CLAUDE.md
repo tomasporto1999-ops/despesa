@@ -11,7 +11,8 @@ PWA single-file de registo de despesas pessoais para Tomás Brito (Kaizen Instit
 - `index.html` — PWA completa, deployada em GitHub Pages
 - `apps_script.js` — endpoint REST (Google Apps Script), colado manualmente no GAS pelo utilizador
 - `controlo_despesas.xlsx` — template do Sheet, importado pelo utilizador para Google Drive
-- GitHub Pages URL: `https://<username>.github.io/despesa/` (substituir `<username>` pelo utilizador GitHub real)
+- GitHub Pages URL: `https://tomasporto1999-ops.github.io/despesa/`
+- GitHub repo: `https://github.com/tomasporto1999-ops/despesa`
 
 ## Decisões de design (não alterar sem perguntar)
 
